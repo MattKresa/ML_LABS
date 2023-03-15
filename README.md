@@ -1,1 +1,1 @@
-# ML_LABS
+# ML lab repository
